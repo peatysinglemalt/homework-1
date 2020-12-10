@@ -1,5 +1,8 @@
-# homework-1
 
+## Website
+```
+[Link to webpage](https://peatysinglemalt.github.io/homework-1/)
+```
 
 ## User Story
 
@@ -27,9 +30,17 @@ THEN I find a concise, descriptive title
 
 ## refactoring work completed to meet accessiibility standards without affecting the website 
 
+```
 - added a descriptive title 
 - provided accessible alt attribute tags  
 - replaced non-semantic HTML with semantic HTML elements with logical structure 
 - consolidated redundant CSS elements 
 - added missing links, and alt tags to images
+```
 
+## Screenshots
+
+```
+![screenshot 1](https://github.com/peatysinglemalt/homework-1/blob/main/assets/images/Screen%20Shot%202020-12-10%20at%2009.01.57.png)
+![screenshot 2](https://github.com/peatysinglemalt/homework-1/blob/main/assets/images/Screen%20Shot%202020-12-10%20at%2009.02.07.png)
+```
