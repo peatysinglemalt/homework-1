@@ -5,7 +5,7 @@ Code refactoring for Horiseon webpage
 HTML and CSS
 
 ## What you did
-Refactored existing stie to meet accessiibility standards without affecting the website 
+Refactored existing code to meet accessiibility standards without affecting the website 
 
 - added a descriptive title 
 - provided accessible alt attribute tags  
